@@ -1,3 +1,4 @@
 {
-  "name": "wpninjas/ninja-forms-uploads"
+  "name": "wpninjas/ninja-forms-uploads",
+  "type": "wordpress-plugin"   
 }
